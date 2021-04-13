@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1802aefb_002D74c4_002D4d66_002D89c8_002D67573c00fe19/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Wikipedia_Search_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::97EFC7FD-397F-466F-B15C-F7507DD37B1A::.NETFramework,Version=v4.7.2::SeleniumTest.WikipediaTest.Wikipedia_Search_Success&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7ba299c6_002D64fe_002D4def_002D85ba_002Def8e091d2ee0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="WikipediaTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::97EFC7FD-397F-466F-B15C-F7507DD37B1A::.NETFramework,Version=v4.7.2::SeleniumTest.WikipediaTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a65f1f34_002Dd66b_002D4e00_002Daabc_002D912f876a5651/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::97EFC7FD-397F-466F-B15C-F7507DD37B1A::.NETFramework,Version=v4.7.2::SeleniumTest.ComputerSiteHomePageTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
