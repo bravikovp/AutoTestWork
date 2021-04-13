@@ -1,1 +1,1 @@
-"# AutoTestWork" 
+Проект SeleniumTest содержит файл с тестами ComputerSiteHomePageTest
